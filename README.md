@@ -89,7 +89,7 @@ Para trocar a porta basta ir em [src/server.js:97](https://github.com/mateusfg7/
 server.listen(3000);
 ```
 
-### Criar Bando de Dados
+### Criar Banco de Dados
 
 Para criar o banco de dados descomente as linhas 9 a 79, depois as linhas 11 a 26 do arquivo [src/database/db.js](https://github.com/mateusfg7/Ecoleta/blob/master/src/database/db.js)
 
